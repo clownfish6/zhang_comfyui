@@ -1,0 +1,7 @@
+*** Begin Patch
+*** Update File: AnyBooleanSwitch/nodes.py
+@@
+-import os
++import os
++import hashlib
+*** End Patch
